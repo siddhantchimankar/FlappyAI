@@ -17,7 +17,7 @@ This project aims to develop an Artificial Intelligence (AI) system capable of p
 
 To run the Flappy Bird AI on your local machine, follow these steps:
 
-git clone https://github.com/your-username/flappy-bird-ai.git
+git clone https://github.com/siddhantchimankar/flappy-bird-ai.git
 pip install pygame neat-python
 python game.py
 
